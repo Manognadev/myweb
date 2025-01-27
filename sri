@@ -2,3 +2,6 @@ this class belongs to devops.
 and also belongs to cloud,
 git
 maven
+jenkins
+ansible
+cloudwatch
