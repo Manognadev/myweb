@@ -5,3 +5,5 @@ maven
 jenkins
 ansible
 cloudwatch
+terreaform
+kubernetes
