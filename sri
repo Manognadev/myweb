@@ -7,3 +7,6 @@ ansible
 cloudwatch
 terreaform
 kubernetes
+s3
+vpc
+ec2
